@@ -22,6 +22,15 @@
 .marg-top-30{
     margin-top: 30px;
 }
+.marg-bot{
+    margin-bottom: 100px;
+}
 .dimension-photo{
     height: 700px;
+}
+.dimension-italy{
+    height: 15px;
+}
+.dimension-icon{
+    width: 20px;
 }
