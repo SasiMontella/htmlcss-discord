@@ -9,10 +9,6 @@
     background-size: 100%;
     background-position: 70%;
 }
-.bg-star{
-    background-image: url(../img/stars.svg);
-    background-repeat: no-repeat;
-}
 .pad{
     padding: 140px;
 }
